@@ -1,0 +1,1 @@
+. "/home/discente/Downloads/Trabalho-SegundoTrimestre/conanEX/deactivate_conanrunenv-release-x86_64.sh"
