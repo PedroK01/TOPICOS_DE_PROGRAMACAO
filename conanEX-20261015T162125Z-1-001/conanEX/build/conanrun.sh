@@ -1,0 +1,1 @@
+. "/home/discente/Downloads/conanEX/build/conanrunenv-release-x86_64.sh"

@@ -1,0 +1,3 @@
+/home/discente/Downloads/conanEX/build/CMakeFiles/jogo.dir
+/home/discente/Downloads/conanEX/build/CMakeFiles/edit_cache.dir
+/home/discente/Downloads/conanEX/build/CMakeFiles/rebuild_cache.dir
